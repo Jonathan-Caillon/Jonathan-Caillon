@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Cover](https://github.com/Jonathan-Caillon/Jonathan-Caillon/blob/main/img/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-caillon&show_icons=true&theme=radical)
