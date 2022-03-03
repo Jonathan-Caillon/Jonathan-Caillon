@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232755BB&center=true&lines=Hello+%F0%9F%91%8B%2C+I+am+a+Web+Developper+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232755BB&center=true&lines=Hello+%F0%9F%91%8B%2C+I+am+a+French+Web+Developper+)](https://git.io/typing-svg)
 ---
 ![Cover](https://github.com/Jonathan-Caillon/Jonathan-Caillon/blob/main/img/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966.gif)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-caillon&show_icons=true&theme=radical)  
