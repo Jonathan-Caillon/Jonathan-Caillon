@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232755BB&lines=Hello+%F0%9F%91%8B%2C+I+am+a+Web+Developper)](https://git.io/typing-svg)
 ---
-Welcome to my page! 
-I'm **Jonathan**, junior web developper from **France**.
+Welcome to my page !  
+I'm **Jonathan**,a junior web developper from **France**.
 ![Cover](https://github.com/Jonathan-Caillon/Jonathan-Caillon/blob/main/img/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966.gif)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-caillon&show_icons=true&theme=radical)  
 
