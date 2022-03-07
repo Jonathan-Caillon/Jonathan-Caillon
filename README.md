@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)  
 ![Cover](https://github.com/Jonathan-Caillon/Jonathan-Caillon/blob/main/img/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966.gif)  
