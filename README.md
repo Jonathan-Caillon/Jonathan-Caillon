@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232755BB&lines=Hello+%F0%9F%91%8B%2C+I+am+a+Web+Developper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fe428e&lines=Hello+%F0%9F%91%8B%2C+I+am+a+Web+Developper)](https://git.io/typing-svg)
 ---
 Welcome to my page !  
 I'm **Jonathan**, a junior web developper from 🇫🇷 **France**.  
